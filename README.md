@@ -2,7 +2,7 @@
 
 ## Semester 1 
 ### Object-Oritented Programming
-- Description
+- During the first semester, I delved into Object-Oriented Programming (OOP), focusing on core principles such as classes, objects, inheritance, polymorphism, and encapsulation. Through hands-on projects and coding exercises, I gained a strong foundation in designing and structuring software efficiently. This experience allowed me to develop problem-solving skills and apply OOP concepts to real-world applications, enhancing my ability to create modular and maintainable code.
 - Links
 
 ### Introduction to Networking
