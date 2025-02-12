@@ -56,12 +56,15 @@
 - This foundation allowed me to enhance my problem-solving skills and create efficient, modular code. For my final assignment, I developed an inventory system for a fictional car dealership, CarCo. The system tracks current, ordered, and in-delivery vehicles, managing stock for petrol, electric, and plugin hybrid cars, and is adaptable to the dynamic car market.
 
 ### Introduction to Networking
-- Description
-- Links
+- In Introduction to Networking, I have learned the fundamentals of computer networking, including concepts such as IP addressing, subnetting, network protocols, and routing. Through hands-on projects and exercises, I have gained practical experience in configuring and troubleshooting networks, as well as understanding how devices communicate across different layers of the OSI model. Strengthening my knowledge of networking essentials, preparing me for real-world applications in IT and network management.
+  
+- I have used software such as Cisco Packet Tracer, Windows Server and VMWare Horizon to create and manage virtual machines to emulate a real job world experience, creating environments for staff and managing servers.
+
+
 
 ## Semester 2
 ### Cloud Databases
-- Description
+- In my Cloud Databases course, I will be exploring the fundamentals of cloud-based database management systems, focusing on their design, deployment, and scalability. I will learn how to work with cloud platforms like AWS, Google Cloud, and Azure to set up, manage, and optimize databases for performance and reliability. Through hands-on projects, I’ll gain experience in working with both relational and NoSQL databases, ensuring I can effectively utilize cloud technologies to store and manage data in modern, scalable environments.
 
-### IOT (Internet of Things)
-- Description
+### IOT Development 
+- In my IoT Development course, I will be using Python and a Raspberry Pi to design and build Internet of Things (IoT) applications. I will work on integrating sensors, controlling devices, and enabling communication between IoT systems using wireless protocols. By leveraging the Raspberry Pi's capabilities, I'll develop projects that involve real-time data collection, processing, and cloud integration, gaining hands-on experience in creating smart solutions for a variety of IoT applications.
