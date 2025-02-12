@@ -1,4 +1,4 @@
-# Personal Portfolio
+# Projects Portfolio
 
 ## Semester 1 
 #### (FINISHED)
