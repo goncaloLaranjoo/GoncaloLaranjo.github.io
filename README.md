@@ -60,7 +60,35 @@
   
 - I have used software such as Cisco Packet Tracer, Windows Server and VMWare Horizon to create and manage virtual machines to emulate a real job world experience, creating environments for staff and managing servers.
 
+- Here are a few examples below of the work I have done throughout my most recent assignment:
 
+- I started by making my own domain controller/ server, along with the two computers to test run all the users accounts I made through the domain controller, to create and manage everything for the users.
+  
+![Image](https://github.com/user-attachments/assets/0f931fbb-9195-4571-940b-c2164cc6a4e4)
+
+- I installed DNS and DHCP services for two reasons firstly DNS enables the use of easy-to-remember domain names, helping users access services and websites by translating them into machine-understandable IP addresses, while DHCP automates the assignment of IP addresses to devices on a network, making it easier to manage network resources and preventing conflicts between devices.
+  
+![Image](https://github.com/user-attachments/assets/db0b806a-b168-421f-8359-0624bc592350)
+
+- Here are the Active Directory features:
+  
+![Image](https://github.com/user-attachments/assets/f6c91cd9-6ac5-4a7e-94cc-ec83cc0a9300)
+
+- Certain users need different logon hours I have applied these using the active directory tools so that the users are only permitted to login at certain hours.
+  
+![Image](https://github.com/user-attachments/assets/2c37aea5-4efb-4433-a198-71e2f107c430)
+
+- Using the active directory I made it possible to only have complex passwords available if the password meets the minimum complexity requirements.
+
+![Image](https://github.com/user-attachments/assets/3750498c-303a-4a2b-b438-857c5b0f00d8)
+
+- I implemented file shares and NTFS share permissions by separating certain users between the users and administrators I can make USERS only be able to Read & Execute, List folder contents, and Read. 
+
+![Image](https://github.com/user-attachments/assets/af132fc4-0d8a-46d9-a979-63589b904f5b)
+
+- I used ipconfig /all to show that all computers are connected to the same server.
+
+![Image](https://github.com/user-attachments/assets/0e92ed96-6b1c-4af8-81d3-c28b0bb8259f)
 
 ## Semester 2
 ### Cloud Databases
