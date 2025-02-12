@@ -1,6 +1,7 @@
 # Personal Portfolio
 
 ## Semester 1 
+#### (FINISHED)
 ### Object-Oritented Programming
 - During the first semester, I delved into Object-Oriented Programming (OOP), focusing on core principles such as classes, objects, inheritance, polymorphism, and encapsulation. Through hands-on projects and coding exercises, I gained a strong foundation in designing and structuring software efficiently. This experience allowed me to develop problem-solving skills and apply OOP concepts to real-world applications, enhancing my ability to create modular and maintainable code.
  
@@ -91,8 +92,28 @@
 ![Image](https://github.com/user-attachments/assets/0e92ed96-6b1c-4af8-81d3-c28b0bb8259f)
 
 ## Semester 2
+#### (ONGOING)
 ### Cloud Databases
 - In my Cloud Databases course, I will be exploring the fundamentals of cloud-based database management systems, focusing on their design, deployment, and scalability. I will learn how to work with cloud platforms like AWS, Google Cloud, and Azure to set up, manage, and optimize databases for performance and reliability. Through hands-on projects, I’ll gain experience in working with both relational and NoSQL databases, ensuring I can effectively utilize cloud technologies to store and manage data in modern, scalable environments.
 
 ### IOT Development 
 - In my IoT Development course, I will be using Python and a Raspberry Pi to design and build Internet of Things (IoT) applications. I will work on integrating sensors, controlling devices, and enabling communication between IoT systems using wireless protocols. By leveraging the Raspberry Pi's capabilities, I'll develop projects that involve real-time data collection, processing, and cloud integration, gaining hands-on experience in creating smart solutions for a variety of IoT applications.
+
+## Upcoming Semesters
+### Introduction to Virtualisation Technologies
+
+- In this subject I will be learning the basics of virtualization, including creating and managing virtual machines (VMs), hypervisors, and virtual networks. I will explore various virtualization platforms, such as VMware and VirtualBox, and understand how they optimize resource management, improve scalability, and enhance system performance. Through hands-on labs and projects, I will gain practical experience in deploying virtual environments, which will prepare me to effectively manage and configure virtualized infrastructure for modern IT systems.
+
+### Mobile Development
+
+-  In Mobile Development, I will be learning the fundamentals of creating mobile applications for both Android and iOS platforms. I will explore programming languages such as Java, Kotlin, and Swift, while gaining hands-on experience with development environments like Android Studio and Xcode. The course will cover app design, user interfaces, and integrating APIs to create functional and responsive mobile apps. Through practical projects, I will develop the skills needed to build and deploy mobile applications that offer smooth and engaging user experiences.
+
+### Cyber Security
+
+- In Cyber Security, I will be learning the essential principles of protecting digital systems and data from cyber threats. I will explore topics such as network security, encryption, threat detection, and risk management. Through practical exercises and case studies, I will gain hands-on experience in identifying vulnerabilities, securing networks, and responding to security incidents. This course will equip me with foundational knowledge and skills to help safeguard information and systems in an increasingly digital and connected world.
+
+### AI Fundamentals
+
+- In AI Fundementals, I will be learning the core concepts of artificial intelligence, including machine learning, neural networks, and natural language processing. The course will cover key algorithms and techniques used to build intelligent systems and explore how AI can be applied in real-world scenarios. Through hands-on exercises and projects, I will gain practical experience in developing AI models, enhancing my understanding of how AI can solve complex problems and drive innovation across various industries.
+
+
