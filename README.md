@@ -1,4 +1,4 @@
-# Projects Portfolio
+# Goncalo Laranjo's Course Project Portfolio
 
 ## Semester 1 
 #### (FINISHED)
